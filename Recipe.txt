@@ -5,7 +5,8 @@ kheer
 noodles
 chicken biryani
 
-
+beans
+pizza
 
 
 thank you
